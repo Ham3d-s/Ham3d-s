@@ -1,12 +1,3 @@
-<h2 align="center"></h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ham3d-s&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ham3d-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Ham3ds)
